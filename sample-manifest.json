@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b3dadeec-469b-487e-ba16-eecb9b0878bc",
+  "id_short": 540398,
+  "published_at": "2026-04-12T19:59:22Z",
+  "repo_name": "all-restaurants-in-billings-montana-us-sample-540398",
+  "sample_asset_name": "beamstation_540398_restaurants-us-mt_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/540398/beamstation_540398_restaurants-us-mt_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "1fb31aeaf9890e61e92435da85194ecc2652277ebef05a571d693907a134100d",
+  "sample_size_bytes": 114569,
+  "total_records": 308
+}
