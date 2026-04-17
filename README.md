@@ -1,6 +1,6 @@
 # All Restaurants in Billings, Montana, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `540398` |
 | Location | Billings |
 | Category | Restaurants |
-| Full dataset size | 308 records |
-| Free sample size | 25 records (8.12%) |
-| Last export | 2026-03-31T13:15:00.198366+00:00 |
+| Full dataset size | 375 records |
+| Free sample size | 37 records (9.87%) |
+| Last export | 2026-04-14T13:31:42.267420+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-billings-montana-us-sample-540398/releases/download/sample-latest/beamstation_540398_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
